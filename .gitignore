@@ -1,2 +1,4 @@
 # exlude intelliJ module files
 *.iml
+public/js
+public/css

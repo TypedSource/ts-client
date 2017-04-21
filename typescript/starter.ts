@@ -1,6 +1,6 @@
 /**
- * Copyright 2017-2022 by Maik Tizziani
- * for more information read the README.md in the root project folder.
+ * Copyright 2017 by Maik Tizziani
+ * for more information read the README.md and the LICENCE file.
  */
 
 /// <reference path="types/jquery/index.d.ts"/>

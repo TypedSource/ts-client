@@ -2,7 +2,7 @@
 One-Site-Application based on TypeScript
 
 ## Copyright
-Copyright 2017-2022 by Maik Tizziani
+Copyright 2017 by Maik Tizziani
 Alle Dateien in diesem Repository sind gerenell Urheberrechtlich geschützt und unterliegen der GPL3.0.
 
 Die private Nutzung und Veränderung ist generell gestattet. Copyright und Lisenzverweise müssen jedoch generell mit

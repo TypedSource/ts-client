@@ -7,7 +7,8 @@ One-Site-Application based on TypeScript
 Bei einem Merge Request achtet bitte darauf, dass alle generierten Dateien und alle Projekt Dateien (IDE abhängig) zur 
 .gitignore hinzugefügt werden. Das erspart einfach viel Zeit in der Nacharbeit. 
 
-Windows Benutzer achten bitte darauf CRLF in LF umzuwandeln um Platform unabhängig arbeiten zu können.
+Windows Benutzer können CRLF automatisch in LF umwandeln lassen. Dies ist Allerdings kein zwang, denn einige IDE's 
+zeigen dann permanent Änderungen in den Dateien an. 
 
     git config --global core.autocrlf true
 
